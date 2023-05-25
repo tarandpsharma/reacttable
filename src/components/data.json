@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name": "Taran",
+        "occupation": "web developer",
+        "salary": 10000
+    },
+    {
+        "id": 2,
+        "name": "Kamal",
+        "occupation": "Pharmacist",
+        "salary": 23000
+    },
+    {
+        "id": 3,
+        "name": "Manjot",
+        "occupation": "FrontEnd Developer",
+        "salary": 35000
+    },
+    {
+        "id": 4,
+        "name": "Deep",
+        "occupation": "Body Builder",
+        "salary": 30000
+    },
+    {
+        "id": 5,
+        "name": "Raman",
+        "occupation": "Teacher",
+        "salary": 25000
+    }
+
+]
